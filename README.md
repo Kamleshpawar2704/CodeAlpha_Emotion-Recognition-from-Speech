@@ -25,7 +25,7 @@ Features are extracted as **MFCCs** (Mel Frequency Cepstral Coefficients) and fe
 You can run the project directly in **Google Colab** without any setup.
 
 ### 🔗 Open in Colab
-[![Open In Colab](https://colab.research.google.com/drive/1bYVjWnFHR-eaztAQdlaNx6C9lV7FVB1k?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/19jA0srBEDkZudrF9HswH23oAp4RlsOBG?usp=sharing)
 
 🛠️ Project Workflow
 
